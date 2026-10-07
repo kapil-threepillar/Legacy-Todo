@@ -1,0 +1,7 @@
+# Runtime todo data; PHP recreates the data folder as needed.
+/data/todos.php
+
+# Local editor and operating system files.
+.DS_Store
+.vscode/
+.idea/
