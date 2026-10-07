@@ -18,7 +18,6 @@ brew install php
 In Terminal, move into the project folder and start PHP's built-in development server:
 
 ```sh
-cd "/Users/kapil.patel/Desktop/Legacy-Todo Application"
 php -S localhost:8000
 ```
 
